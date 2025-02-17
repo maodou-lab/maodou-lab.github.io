@@ -1,5 +1,5 @@
 ---
 title: "Blog Posts"
-meta_title: "生活"
+meta_title: "daily life"
 description: "this is meta description"
 ---

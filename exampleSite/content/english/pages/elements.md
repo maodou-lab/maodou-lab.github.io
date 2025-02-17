@@ -1,7 +1,7 @@
 ---
 title: "Achievements"
 # meta title
-meta_title: ""
+meta_title: "Achievements"
 # meta description
 description: "This is meta description"
 # save as draft
