@@ -27,8 +27,8 @@ url = "/blog"
 
 [[main]]
 parent = "Pages"
-name = "生活"
-url = "/blog copy"
+name = "life"
+url = "/blog1 copy"
 
 [[main]]
 parent = "Pages"
