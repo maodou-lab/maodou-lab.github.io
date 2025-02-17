@@ -1,9 +1,9 @@
 ---
-title: "this!"
+title: "这里是毛豆实验室"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+这是一个可爱的实验室，在这里分享想法，成果，灵感，杂录。成果包括论文和项目；想法包括学习中的总结和反思；灵感包括关于未来的一些畅想；杂录是生活有关的一些分享。
