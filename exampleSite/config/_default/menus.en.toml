@@ -12,7 +12,7 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
+name = "Achievements"
 url = "/elements"
 weight = 3
 
@@ -22,8 +22,13 @@ name = "Pages"
 
 [[main]]
 parent = "Pages"
-name = "Blog"
+name = "科研"
 url = "/blog"
+
+[[main]]
+parent = "Pages"
+name = "生活"
+url = "/blog copy"
 
 [[main]]
 parent = "Pages"
